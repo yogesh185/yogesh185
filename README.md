@@ -84,5 +84,3 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh185&hide_border=true&layout=compact" align="right" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
