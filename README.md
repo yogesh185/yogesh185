@@ -79,8 +79,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh185&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=yogesh185&show_icons=true&count_private=true&hide_border=true" align="left" display="block" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh185&hide_border=true&layout=compact" align="right" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh185&hide_border=true&layout=compact" align="right" display="block"/></div>
 <br />
 
+![Snake animation](https://github.com/yogesh185/yogesh185/blob/output/github-contribution-grid-snake.svg)
