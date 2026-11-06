@@ -1,86 +1,104 @@
-# <div align="center">Hey, I'm Yogesh, a front-end Web Developer 👨‍💻 🚀
-</div>  
-  
+ <div align="center">
 
-**ABOUT ME**  
-  
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Yogesh%20Amrute&fontSize=68&fontColor=F7F5EF&color=0:080D1B,45:14254A,100:315CFF&stroke=315CFF&animation=fadeIn&fontAlignY=42" width="100%" />
 
-- *🔭 I’m presently pursuing Btech in Computer Science Engineering(SCSE) from Vellore Institute of Technology, Bhopal.*  
-  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;AI+Engineer;Product+Builder;Tech+Enthusiast" alt="Animated developer roles" />
 
-- *🌱 I’m currently learning React JS*  
-  
+**Building products. Engineering experiences. Exploring what's next.**
 
-- *❓ Ask me about anything related to front-end and related technologies*  
-  
+[![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=white)](https://github.com/yogesh185)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1020?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_y_ogesh_)
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+<h2 align="center">✦ &nbsp; ABOUT ME</h2>
 
+Computer Science graduate passionate about building digital products, intelligent applications and scalable systems.
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+- 🚀 Building **YARVO** — an AI-powered technology venture.
+- 💻 Developing full-stack applications and digital ecosystems.
+- 🤖 Exploring LLMs, AI agents and intelligent automation.
+- ⚡ Turning ideas into products people can actually use.
 
-</td><td valign="top" width="33%">
+---
 
+<h2 align="center">⚡ &nbsp; TECHNOLOGIES</h2>
 
-
-### Learning  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/yogesh185" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Yogesh Amrute" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Yogesh Amrute" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_y_ogesh_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind&theme=dark" />
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh185&show_icons=true&count_private=true&hide_border=true" align="left" display="block" />  
+**Backend & Databases**
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh185&hide_border=true&layout=compact" align="right" display="block"/></div>
-<br />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,supabase,postgres,mysql&theme=dark" />
 
+**Tools & Development**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,vscode&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">✧ &nbsp; SELECTED PROJECTS</h2>
+
+<div align="center">
+
+| Project | Overview |
+|:---|:---|
+| **YARVO** | AI-powered technology, automation & growth ecosystem |
+| **Intrust India** | Multi-role commerce and business platform |
+| **Doc AI** | AI-powered document intelligence |
+| **Prerna** | Daily wisdom and shloka application |
+| **Krantikari** | Digital news platform |
+| **Shree Sai** | Modern e-commerce experience |
+
+</div>
+
+---
+
+<h2 align="center">🌌 &nbsp; CONTRIBUTION LANDSCAPE</h2>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution landscape" />
+
+<sub>Every contribution adds another piece to the journey.</sub>
+
+</div>
+
+---
+
+<h2 align="center">◈ &nbsp; GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yogesh185&show_icons=true&hide_border=true&bg_color=0B1020&title_color=60A5FA&icon_color=60A5FA&text_color=E2E8F0&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh185&layout=compact&hide_border=true&bg_color=0B1020&title_color=60A5FA&text_color=E2E8F0" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=yogesh185&theme=transparent&hide_border=true&ring=315CFF&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=E2E8F0&dates=94A3B8" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=500&height=35&lines=Think.+Build.+Ship.+Repeat.;Always+building+what's+next." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yogesh185&style=flat-square&color=315CFF&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<sub>Designed with curiosity. Built with code. © Yogesh Amrute</sub>
+
+</div>
